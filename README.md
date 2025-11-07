@@ -27,4 +27,3 @@ It features a clean, modern **glassmorphism UI** to help you plan, prioritize, a
 - Perfect for beginners learning HTML & CSS UI design.
 ---
 
-## 📂 Folder Structure
